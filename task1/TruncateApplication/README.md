@@ -1,3 +1,5 @@
 # TruncateApplication
 
-Generated using Maven using InteliJ
+Generated from Maven using InteliJ iDE
+Java 1.8
+
